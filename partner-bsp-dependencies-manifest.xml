@@ -3,7 +3,7 @@
     <id>MY-KIT-062S2-43012</id>
     <versions>
       <version>
-        <commit>release-v2.0.0</commit>
+        <commit>release-v1.1.0</commit>
         <dependees>
           <dependee>
             <id>capsense</id>
