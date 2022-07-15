@@ -1,0 +1,41 @@
+<boards>
+  <board default_location="local">
+    <id>MY-KIT-062S2-43012</id>
+    <category>PSoC&#8482; 6 BSPs</category>
+    <board_uri>https://github.com/partner/MY-KIT-062S2-43012</board_uri>
+    <chips>
+      <mcu>CY8C624ABZI-S2D44</mcu>
+      <radio>CYW43439KUBG</radio>
+    </chips>
+    <name>MY-KIT-062S2-43012</name>
+    <summary>The BSP MY-KIT-062S2-43012 is the next generation board for XYZ applications</summary>
+    <prov_capabilities>adc arduino capsense capsense_button capsense_linear_slider cat1 comp dma flash_2048k hal i2c i2s j2 led low_power lptimer mcu_gp memory memory_qspi multi_core nor_flash pdm psoc6 qspi rgb_led rtc sdhc smart_io spi sram_1024k std_crypto switch uart</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>Ready-to-Use CAPSENSE&#8482; Trackpad</li>
+        <li>EZ-BLE PRoC module</li>
+        <li>Potentiometer</li>
+        <li>Rechargeable coin-cell battery</li>
+        </ul><p/>
+        <div class="category">Kit Contents:</div><ul>
+        <li>MY-KIT-062S2-43012</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>ABC Sensor</li>
+        <li>Four press-fit connectors (for Arduino headers)</li>
+        <li>Four jumper wires</li>
+        <li>Quick Start Guide</li>
+        </ul>
+      ]]></description>
+    <documentation_url>https://www.partner.com/documentation/development-kitsboards/MY-KIT-062S2-43012</documentation_url>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen2">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen2">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </board>
+</boards>
