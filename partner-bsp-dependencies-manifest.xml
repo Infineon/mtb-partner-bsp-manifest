@@ -2,7 +2,7 @@
   <depender>
     <id>MY-KIT-062S2-43012</id>
     <versions>
-	  <version>
+      <version>
         <commit>latest-v2.X</commit>
         <dependees>
           <dependee>
@@ -35,7 +35,7 @@
           </dependee>
         </dependees>
       </version>
-	  <version>
+      <version>
         <commit>release-v2.0.0</commit>
         <dependees>
           <dependee>
